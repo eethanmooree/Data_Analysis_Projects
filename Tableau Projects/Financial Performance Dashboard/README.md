@@ -1,4 +1,4 @@
-## 📊 Financial Performance Dashboard
+# 📊 Financial Performance Dashboard
 
 This executive-style Tableau dashboard provides a year-end overview of revenue, cost, and profit — allowing leadership to quickly assess financial health and regional performance.
 
