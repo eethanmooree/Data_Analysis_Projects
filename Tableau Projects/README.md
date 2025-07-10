@@ -1,4 +1,4 @@
-# 📊 Tableau Projects
+## 📊 Tableau Projects
 
 This folder contains a series of interactive Tableau dashboards, each designed to solve real-world business problems using compelling visuals, KPIs, and storytelling.
 
